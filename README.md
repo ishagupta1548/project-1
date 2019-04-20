@@ -2,16 +2,15 @@
 
 ## Team Members
 
-1. Chirag Mittal (chiragmittalcm7@gmail.com)
-2.  Rishabh Mittal (rishabhmittal200@gmail.com)
+Isha Gupta (ishagupta1548@gmail.com)
 
 ## Problem Statement
 
-Briefly explain the problem statement chosen
+I choose to provide all the options for students of various streams in this one website.
 
 ## Proposed Solution
 
-Explain your solution and how your problem solving approach. You can give diagrams, flow charts, etc. to illustrate the working of system
+In this, all the different branches have different options. when the student clicks on on button, it leads to the best webpage which delivers all the infromation. The student need not to go to google and search.
 
 ## Technologies or  Languages Used
 
@@ -19,9 +18,7 @@ Explain your solution and how your problem solving approach. You can give diagra
 * CSS
 * MEAN Stack
 * GIt
-* Anything and everything you are using
 
-## Instructions to run the project
 
-This is optional but you must provide if it happens to use anything untraditional
+
 
